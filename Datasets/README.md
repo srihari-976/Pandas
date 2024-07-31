@@ -25,5 +25,3 @@ Feel free to explore the datasets and use them for your learning and projects. T
 ## Contributing
 If you have other interesting datasets or improvements, please feel free to contribute. Fork the repository, make your changes, and submit a pull request.
 
-## License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
