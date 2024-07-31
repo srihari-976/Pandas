@@ -1,0 +1,75 @@
+id,date,team1,team2,toss_winner,decision,first_score,first_wkts,second_score,second_wkts,winner,player_of_the_match,most_runs,most_wkts
+1,"March 22,2024",Banglore,Chennai,Banglore,Bat,173,6,176,4,Chennai,Mustafizur Rahman,Anuj Rawat,Mustafizur Rahman
+2,"March 23,2024",Delhi,Punjab,Punjab,Field,174,9,177,6,Punjab,Sam Curran,Sam Curran,Kuldeep Yadav
+3,"March 23,2024",Kolkata,Hyderabad,Hyderabad,Field,208,7,204,7,Kolkata,Andre Russell,Andre Russell,T Natarajan
+4,"March 24,2024",Rajasthan,Lucknow,Rajasthan,Bat,193,4,173,6,Rajasthan,Sanju Samson,Sanju Samson,Trent Boult
+5,"March 24,2024",Gujarat,Mumbai,Mumbai,Field,168,6,162,9,Gujarat,Sai Sudharsan,Dewald Brevis,Jasprit Bumrah
+6,"March 25,2024",Punjab,Banglore,Banglore,Field,176,6,178,6,Banglore,Virat Kohli,Virat Kohli,Harpreet Brar
+7,"March 26,2024",Chennai,Gujarat,Gujarat,Field,206,6,143,8,Chennai,Shivam Dube,Shivam Dube,Tushar Deshpande
+8,"March 27,2024",Hyderabad,Mumbai,Mumbai,Field,277,3,246,5,Hyderabad,Abhishek Sharma,Heinrich Klaasen,Pat Cummins
+9,"March 28,2024",Rajasthan,Delhi,Delhi,Field,185,5,173,5,Rajasthan,Riyan Parag,Riyan Parag,Yuzvendra Chahal
+10,"March 29,2024",Banglore,Kolkata,Kolkata,Field,182,6,186,3,Kolkata,Sunil Narine,Virat Kohli ,Andre Russell
+11,"March 30,2024",Lucknow,Punjab,Lucknow,Bat,199,8,178,5,Lucknow,Mayank Yadav,Shikhar Dhawan,Mayank Yadav
+12,"March 31,2024",Hyderabad,Gujarat,Hyderabad,Bat,162,8,168,3,Gujarat,Mohit Sharma,Sai Sudharsan,Mohit Sharma
+13,"March 31,2024",Delhi,Chennai,Delhi,Bat,191,5,171,6,Delhi,Khaleel Ahmed,Jos Buttler,Mukesh Kumar
+14,"April 1,2024",Mumbai,Rajasthan,Rajasthan,Field,125,9,127,4,Rajasthan,Trent Boult,Riyan Parag ,Yuzvendra Chahal
+15,"April 2,2024",Lucknow,Banglore,Banglore,Field,181,5,153,10,Lucknow,Mayank Yadav,Quinton de Kock,Mayank Yadav
+16,"April 3,2024",Kolkata,Delhi,Kolkata,Bat,272,7,166,10,Kolkata,Sunil Narine,Sunil Narine,Vaibhav Arora
+17,"April 4,2024",Gujarat,Punjab,Punjab,Field,199,4,200,7,Punjab,Shashank Singh,Shubman Gill,Noor Ahmad
+18,"April 5,2024",Chennai,Hyderabad,Hyderabad,Field,165,5,166,4,Hyderabad,Abhishek Sharma,Aiden Markram,Moeen Ali
+19,"April 6,2024",Banglore,Rajasthan,Rajasthan,Field,183,3,189,4,Rajasthan,Jos Buttler,Virat Kohli,Reece Topley
+20,"April 7,2024",Mumbai,Delhi,Delhi,Field,234,5,205,8,Mumbai,Romario Shepherd,Tristan Stubbs ,Gerald Coetzee
+21,"April 7,2024",Lucknow,Gujarat,Lucknow,Bat,163,5,130,10,Lucknow,Yash Thakur,Marcus Stoinis,Yash Thakur
+22,"April 8,2024",Kolkata,Chennai,Chennai,Field,137,9,141,3,Chennai,Ravindra Jadeja,Ruturaj Gaikwad,Ravindra Jadeja
+23,"April 9,2024",Hyderabad,Punjab,Punjab,Field,182,9,180,6,Hyderabad,Nitish Kumar Reddy,Nitish Kumar Reddy,Arshdeep Singh
+24,"April 10,2024",Rajasthan,Gujarat,Gujarat,Field,196,3,199,7,Gujarat,Rashid Khan,Riyan Parag,Kuldeep Sen
+25,"April 11,2024",Banglore,Mumbai,Mumbai,Field,196,8,199,3,Mumbai,Jasprit Bumrah,Ishan Kishan,Jasprit Bumrah
+26,"April 12,2024",Lucknow,Delhi,Lucknow,Bat,167,7,170,4,Delhi,Kuldeep Yadav,Ayush Badoni,Kuldeep Yadav
+27,"April 13,2024",Punjab,Rajasthan,Rajasthan,Field,147,8,152,7,Rajasthan,Shimron Hetmyer,Yashasvi Jaiswal ,Kagiso Rabada
+28,"April 14,2024",Lucknow,Kolkata,Kolkata,Field,161,7,162,2,Kolkata,Phil Salt,Phil Salt,Mitchell Starc
+29,"April 14,2024",Chennai,Mumbai,Mumbai,Field,206,4,186,6,Chennai,Matheesha Pathirana,Rohit Sharma,Matheesha Pathirana
+30,"April 15,2024",Hyderabad,Banglore,Banglore,Field,187,3,262,7,Hyderabad,Travis Head,Travis Head,Pat Cummins
+31,"April 16,2024",Kolkata,Rajasthan,Rajasthan,Field,223,6,224,8,Rajasthan,Jos Buttler,Sunil Narine ,Sunil Narine 
+32,"April 17,2024",Gujarat,Delhi,Delhi,Field,89,10,92,4,Delhi,Rishabh Pant,Rashid Khan ,Mukesh Kumar
+33,"April 18,2024",Mumbai,Punjab,Punjab,Field,192,7,183,10,Mumbai,Jasprit Bumrah,Suryakumar Yadav,Jasprit Bumrah
+34,"April 19,2024",Chennai,Lucknow,Lucknow,Field,176,6,180,2,Lucknow,KL Rahul,KL Rahul,Krunal Pandya
+35,"April 20,2024",Hyderabad,Delhi,Delhi,Field,266,7,199,10,Hyderabad,Travis Head,Travis Head,T Natarajan
+36,"April 21,2024",Kolkata,Banglore,Banglore,Field,222,6,221,10,Kolkata,Andre Russell,Will Jacks ,Andre Russell
+37,"April 21,2024",Punjab,Gujarat,Punjab,Bat,142,10,146,7,Gujarat,Sai Kishore,Rahul Tewatia,Sai Kishore
+38,"April 22,2024",Mumbai,Rajasthan,Mumbai,Bat,179,9,183,1,Rajasthan,Sandeep Sharma,Yashasvi Jaiswal ,Sandeep Sharma
+39,"April 23,2024",Chennai,Lucknow,Lucknow,Field,210,4,213,4,Lucknow,Marcus Stoinis,Marcus Stoinis,Matheesha Pathirana
+40,"April 24,2024",Delhi,Gujarat,Gujarat,Field,224,4,220,8,Delhi,Rishabh Pant,Rishabh Pant,Sandeep Warrier
+41,"April 25,2024",Banglore,Hyderabad,Banglore,Bat,206,7,171,8,Banglore,Rajat Patidar,Virat Kohli,Jaydev Unadkat
+42,"April 26,2024",Kolkata,Punjab,Punjab,Field,261,6,262,2,Punjab,Jonny Bairstow,Jonny Bairstow,Arshdeep Singh
+43,"April 27,2024",Delhi,Mumbai,Mumbai,Field,257,4,247,9,Delhi,Jake Fraser-McGurk,Jake Fraser-McGurk,Rasikh Salam
+44,"April 27,2024",Lucknow,Rajasthan,Rajasthan,Field,196,5,199,3,Rajasthan,Sanju Samson,KL Rahul,Sandeep Sharma
+45,"April 28,2024",Gujarat,Banglore,Banglore,Field,200,3,206,1,Banglore,Will Jacks,Will Jacks,Swapnil Singh
+46,"April 28,2024",Chennai,Hyderabad,Hyderabad,Field,212,3,134,10,Chennai,Ruturaj Gaikwad,Ruturaj Gaikwad,Tushar Deshpande
+47,"April 29,2024",Delhi,Kolkata,Delhi,Bat,153,9,157,3,Kolkata,Varun Chakravarthy,Phil Salt,Varun Chakravarthy
+48,"April 30,2024",Mumbai,Lucknow,Lucknow,Field,144,7,145,6,Lucknow,Marcus Stoinis,Marcus Stoinis,Hardik Pandya
+49,"May 1,2024",Chennai,Punjab,Punjab,Field,162,7,163,3,Punjab,Harpreet Brar,Ruturaj Gaikwad,Rahul Chahar
+50,"May 2,2024",Hyderabad,Rajasthan,Hyderabad,Bat,201,3,200,7,Hyderabad,Bhuvneshwar Kumar,Riyan Parag ,Bhuvneshwar Kumar
+51,"May 3,2024",Kolkata,Mumbai,Mumbai,Field,169,10,145,10,Kolkata,Venkatesh Iyer,Venkatesh Iyer,Mitchell Starc
+52,"May 4,2024",Gujarat,Banglore,Banglore,Field,147,10,152,6,Banglore,Mohammed Siraj,Faf du Plessis,Josh Little
+53,"May 5,2024",Chennai,Punjab,Punjab,Field,167,9,139,9,Chennai,Ravindra Jadeja,Ravindra Jadeja,Ravindra Jadeja
+54,"May 5,2024",Kolkata,Lucknow,Lucknow,Field,235,6,137,10,Kolkata,Sunil Narine,Sunil Narine,Harshit Rana
+55,"May 6,2024",Hyderabad,Mumbai,Mumbai,Field,173,8,174,3,Mumbai,Suryakumar Yadav,Suryakumar Yadav,Hardik Pandya
+56,"May 7,2024",Delhi,Rajasthan,Rajasthan,Field,221,8,201,8,Delhi,Kuldeep Yadav,Sanju Samson,Ravichandran Ashwin
+57,"May 8,2024",Lucknow,Hyderabad,Lucknow,Bat,165,4,167,0,Hyderabad,Travis Head,Travis Head,Bhuvneshwar Kumar
+58,"May 9,2024",Banglore,Punjab,Punjab,Field,241,7,181,10,Banglore,Virat Kohli,Virat Kohli,Harshal Patel
+59,"May 10,2024",Gujarat,Chennai,Chennai,Field,231,3,196,8,Gujarat,Shubman Gill,Shubman Gill,Mohit Sharma
+60,"May 11,2024",Kolkata,Mumbai,Mumbai,Field,157,7,139,8,Kolkata,Varun Chakravarthy,Venkatesh Iyer,Varun Chakravarthy
+61,"May 12,2024",Rajasthan,Chennai,Rajasthan,Bat,141,5,145,5,Chennai,Simarjeet Singh,Riyan Parag,Simarjeet Singh
+62,"May 12,2024",Banglore,Delhi,Delhi,Field,187,9,140,10,Banglore,Cameron Green,Axar Patel,Yash Dayal
+63,"May 13,2024",Gujarat,Kolkata,No Toss,None,0,0,0,0,Abandoned,None,None,None
+64,"May 14,2024",Delhi,Lucknow,Lucknow,Field,208,4,189,9,Delhi,Ishant Sharma,Nicholas Pooran,Ishant Sharma
+65,"May 15,2024",Rajasthan,Punjab,Rajasthan,Bat,144,9,145,5,Punjab,Sam Curran,Sam Curran,Rahul Chahar
+66,"May 16,2024",Hyderabad,Gujarat,No Toss,None,0,0,0,0,Abandoned,None,None,None
+67,"May 17,2024",Lucknow,Mumbai,Mumbai,Field,214,6,196,6,Lucknow,Nicholas Pooran,Nicholas Pooran,Nuwan Thushara
+68,"May 18,2024",Banglore,Chennai,Chennai,Field,218,5,191,7,Banglore,Faf du Plessis,Rachin Ravindra,Yash Dayal
+69,"May 19,2024",Punjab,Hyderabad,Punjab,Bat,214,5,215,6,Hyderabad,Abhishek Sharma,Prabhsimran Singh,T Natarajan
+70,"May 19,2024",Rajasthan,Kolkata,Kolkata,None,0,0,0,0,Abandoned,None,None,None
+71,"May 21,2024",Hyderabad,Kolkata,Hyderabad,Bat,159,10,164,2,Kolkata,Mitchell Starc,Shreyas Iyer,Mitchell Starc
+72,"May 22,2024",Banglore,Rajasthan,Rajasthan,Field,172,8,174,6,Rajasthan,Ravichandran Ashwin,Yashasvi Jaiswal,Avesh Khan
+73,"May 24,2024",Hyderabad,Rajasthan,Rajasthan,Field,175,9,139,7,Hyderabad,Shahbaz Ahmed,Dhruv Jurel ,Shahbaz Ahmed
+74,"May 26,2024",Hyderabad,Kolkata,Hyderabad,Bat,113,10,114,2,Kolkata,Mitchell Starc,Venkatesh Iyer,Andre Russell
