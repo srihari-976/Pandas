@@ -57,6 +57,4 @@ The notebook includes several examples demonstrating how to use Pandas for diffe
 
 Contributions are welcome! If you find a bug or want to add new features, please open an issue or submit a pull request.
 
-### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
